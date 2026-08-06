@@ -109,10 +109,10 @@ Con ~74 operaciones reales analizadas:
 - [x] Filtros de señal (spread, ATR, hora)
 - [x] Notificaciones Telegram
 - [x] Logging en CSV
-- [ ] Alcanzar 250 operaciones en demo
-- [ ] Re-análisis completo del modelo
+- [X] Alcanzar 250 operaciones en demo
+- [X] Re-análisis completo del modelo
 - [ ] Migración a cuenta real (~$100 inicial)
-- [ ] Optimización del filtro ATR
+- [X] Optimización del filtro ATR
 
 ---
 
